@@ -2,8 +2,8 @@
 /**
  * Write a description of class TooLargeTooSmall here.
  *
- * @author (Kevin HW)
- * @version (Feb 5)
+ * @author (Kevin Romero)
+ * @version (02.05.2020)
  */
 public class TooLargeTooSmall {
     private Integer chosenNum;
